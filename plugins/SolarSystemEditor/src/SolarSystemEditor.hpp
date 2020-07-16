@@ -24,7 +24,6 @@
 
 #include "StelGui.hpp"
 #include "StelModule.hpp"
-//#include "CAIMainWindow.hpp"
 
 #include <QHash>
 #include <QList>
